@@ -57,7 +57,7 @@ Oncogene 2015, 34(32), 4168-76
 For more details see [Pbulications Neri](https://www.leibniz-fli.de/nc/research/research-groups/neri/publications/).
 
 ### Group members
-<img src="assets/images/pic2.png" alt="hi" class="inline" width="200" height="288" /> 
+<img src="assets/images/pic2.png" alt="hi" class="inline" width="400" height="576" /> 
 Francesco Neri
 
 Anna Krepelova,
