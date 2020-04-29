@@ -47,7 +47,7 @@ Nature 2017, 543(7643), 72-7
 
 Single-Base Resolution Analysis of 5-Formyl and 5-Carboxyl Cytosine Reveals Promoter DNA Methylation Dynamics.
 Neri* F, Incarnato* D, Krepelova A, Rapelli S, Anselmi F, Parlato C, Medana C, Dal Bello F, Oliviero S
-Cell Rep 2015, 10(5), 674–683* equal contribution
+Cell Rep 2015, 10(5), 674–683 *equal contribution
 
 TET1 is a tumour suppressor that inhibits colon cancer growth by derepressing inhibitors of the WNT pathway.
 Neri F, Dettori D, Incarnato D, Krepelova A, Rapelli S, Maldotti M, Parlato C, Paliogiannis P, Oliviero S
