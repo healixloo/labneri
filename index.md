@@ -1,6 +1,4 @@
-## Welcome to Group Neri's website
-
-                                      The Epigenetics Of Aging
+                             The Epigenetics Of Aging
 
 <img src="https://specials-images.forbesimg.com/imageserve/1056797512/960x0.jpg?fit=scale" >
 
