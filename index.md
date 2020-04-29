@@ -58,6 +58,7 @@ For more details see [Pbulications Neri](https://www.leibniz-fli.de/nc/research/
 
 ### Group members
 <img src="assets/images/pic2.png" alt="hi" class="inline" width="400" height="576" /> 
+
 Francesco Neri
 
 Anna Krepelova,
