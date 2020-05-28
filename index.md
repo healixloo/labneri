@@ -40,7 +40,7 @@ You can download the file [here](https://healixloo.github.io/group_neri/assets/f
 
 Some publications includes for
 
-```{markdown, max.height='50px'}
+```{r, max.height='50px'}
 Intragenic DNA methylation prevents spurious transcription initiation.
 Neri F, Rapelli S, Krepelova A, Incarnato D, Parlato C, Basile G, Maldotti M, Anselmi F, Oliviero S
 Nature 2017, 543(7643), 72-7
