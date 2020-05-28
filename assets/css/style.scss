@@ -10,9 +10,9 @@
 }
 
 .page {
-  width: calc(150% - #{$right-sidebar-width-narrow});
+  width: calc(200% - #{$right-sidebar-width-narrow});
 }
 
 .inner {
-  max-width: 150%;
+  max-width: 200%;
 }
