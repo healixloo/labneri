@@ -2,11 +2,13 @@
 ---
 @import 'jekyll-theme-leap-day';
 
+pre.highlight {
+  max-height: 600px; 
+  overflow-y: scroll;
+}
 
 .highlight {
   max-height: 600px;
   width: 550px;
-  overflow-y: auto;
-  overflow-x: auto;
 }
 
