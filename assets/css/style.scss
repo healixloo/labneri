@@ -8,3 +8,6 @@
   width: 600px;
   overflow-y: auto;
 }
+.page {
+  width: calc(120% - #{$right-sidebar-width-narrow});
+}
