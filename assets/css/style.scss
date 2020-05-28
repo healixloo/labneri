@@ -8,6 +8,11 @@
   width: 600px;
   overflow-y: auto;
 }
+
 .page {
-  width: calc(120% - #{$right-sidebar-width-narrow});
+  width: calc(150% - #{$right-sidebar-width-narrow});
+}
+
+.inner {
+  max-width: 150%;
 }
