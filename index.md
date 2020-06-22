@@ -39,9 +39,7 @@ You can download the file [here](https://healixloo.github.io/group_neri/assets/f
 3. Bulk RNAseq visualiztion on the epithelial cells
 
    [Bulk RNAseq GSEA visualiztion on the customed gene sets](https://gen100.leibniz-fli.de/shiny-odin/jlu/gsea_rnaseq_20200225_v2/)
-   
-[Working log](https://gen100.leibniz-fli.de/shiny-odin/jlu/log-shiny-server/)
-
+   [Working log](https://gen100.leibniz-fli.de/shiny-odin/jlu/log-shiny-server/)
 
 ### Publications
 
