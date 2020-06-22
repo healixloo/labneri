@@ -20,25 +20,25 @@ You can download the file [here](https://healixloo.github.io/group_neri/assets/f
 
 1. Sinle-cell RNAseq visualiztion on the small intestine invivo
 
-   [Barplot of gene mean expression in different immune celltypes of SI part](https://gen100.leibniz-fli.de/shiny-odin/jlu/bar_immune_single_20200206_v2/)
+   [Application1: Barplot of gene mean expression in different immune celltypes of SI part](https://gen100.leibniz-fli.de/shiny-odin/jlu/bar_immune_single_20200206_v2/)
    
-   [Customed culstering analysis in immune single cells](https://gen100.leibniz-fli.de/shiny-odin/jlu/immuneF_single_F3_20200219_v2/)
+   [Application2: Customed culstering analysis in immune single cells](https://gen100.leibniz-fli.de/shiny-odin/jlu/immuneF_single_F3_20200219_v2/)
    
-   [Boxplot of gene mean expression in different immune and epithelial celltypes](https://gen100.leibniz-fli.de/shiny-odin/jlu/boxplot_ie_20200223_v2/)
+   [Application3: Boxplot of gene mean expression in different immune and epithelial celltypes](https://gen100.leibniz-fli.de/shiny-odin/jlu/boxplot_ie_20200223_v2/)
    
-   [Vlnplot of gene mean expression in different immune celltypes](https://gen100.leibniz-fli.de/shiny-odin/jlu/vlnplot_immune_20200212/)
+   [Application4: Vlnplot of gene mean expression in different immune celltypes](https://gen100.leibniz-fli.de/shiny-odin/jlu/vlnplot_immune_20200212/)
    
 2. Sinle-cell RNAseq visualiztion on the small intestine invitro
 
-   [Visualization of single cell RNA in ogranoids treated with Ifng](https://gen100.leibniz-fli.de/shiny-odin/jlu/expression_organoids_ic_20200302/)
+   [Application1: Visualization of single cell RNA in ogranoids treated with Ifng](https://gen100.leibniz-fli.de/shiny-odin/jlu/expression_organoids_ic_20200302/)
    
-   [Visualization of single cell RNA in ogranoids treated with Nrn1](https://gen100.leibniz-fli.de/shiny-odin/jlu/expression_organoids_nc_20200228/)
+   [Application2: Visualization of single cell RNA in ogranoids treated with Nrn1](https://gen100.leibniz-fli.de/shiny-odin/jlu/expression_organoids_nc_20200228/)
    
-   [Gene-positive cells in specific celtype of ogranoids treated with Ifng](https://gen100.leibniz-fli.de/shiny-odin/jlu/singlemarker_assess_20200303/)
+   [Application3: Gene-positive cells in specific celtype of ogranoids treated with Ifng](https://gen100.leibniz-fli.de/shiny-odin/jlu/singlemarker_assess_20200303/)
 
 3. Bulk RNAseq visualiztion on the epithelial cells
 
-   [Bulk RNAseq GSEA visualiztion on the customed gene sets](https://gen100.leibniz-fli.de/shiny-odin/jlu/gsea_rnaseq_20200225_v2/)
+   [Application: Bulk RNAseq GSEA visualiztion on the customed gene sets](https://gen100.leibniz-fli.de/shiny-odin/jlu/gsea_rnaseq_20200225_v2/)
    [Working log](https://gen100.leibniz-fli.de/shiny-odin/jlu/log-shiny-server/)
 
 ### Publications
