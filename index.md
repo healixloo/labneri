@@ -2,7 +2,7 @@
 
 <img src="https://specials-images.forbesimg.com/imageserve/1056797512/960x0.jpg?fit=scale" >
 
-You can check the [Group Neri information in FLI](https://www.leibniz-fli.de/research/research-groups/neri/) to know detailed intruction from our group.
+You can check the [Group Neri information in FLI](https://www.leibniz-fli.de/research/research-groups/neri/) to know detailed introduction from our group.
 
 ## Introduction
 
